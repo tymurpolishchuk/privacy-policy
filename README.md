@@ -1,6 +1,6 @@
-# Infinity Project: open boxes Privacy Policy
+# Privacy policies
 
-Static GitHub Pages site for the `Infinity Project: open boxes` privacy policy.
+Static GitHub Pages site for the `Infinity Project: open boxes` and `Last Outpost: Tower Defense` privacy policies. The policies are separate sections on `index.html`.
 
 ## Publish on GitHub Pages
 
